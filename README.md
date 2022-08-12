@@ -1,6 +1,6 @@
 # Magento 2 WhatsApp Share Cart
 
-WhatsApp is a popular platform with an easy user interface and easy access. Owing to such features, it is the best choice for Magento 2 store owners for marketing. Hence, Meetanshi developed***[Magento 2 WhatsApp Share Cart](https://meetanshi.com/magento-2-whatsapp-share-cart.html)*** extension that lets customers share their cart with WhatsApp contacts.
+WhatsApp is a popular platform with an easy user interface and easy access. Owing to such features, it is the best choice for Magento 2 store owners for marketing. Hence, Meetanshi developed ***[Magento 2 WhatsApp Share Cart](https://meetanshi.com/magento-2-whatsapp-share-cart.html)*** extension that lets customers share their cart with WhatsApp contacts.
 
 Magento 2 WhatsApp Share Cart is a marketing tool that lets customers share their shopping cart with friends and family using WhatsApp. People tend to get attracted more to your products when their loved ones share it with them.
 
